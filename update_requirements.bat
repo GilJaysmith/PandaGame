@@ -1,0 +1,1 @@
+tools\python27\scripts\pip freeze > python-2.7.13-requirements.txt
