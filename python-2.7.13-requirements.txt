@@ -19,7 +19,7 @@ pyshp==1.2.12
 PySide==1.2.4
 PyYAML==3.12
 requests==2.18.4
-rsa==3.4.2
+rsa==4.7
 simplejson==3.11.1
 six==1.11.0
 uritemplate==3.0.0
